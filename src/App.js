@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        welcome.js
+        I've changes te app.js page
         </a>
       </header>
     </div>
